@@ -1,0 +1,32 @@
+body{
+
+    background: url(img/fondo.jpg) fixed;
+    
+}
+
+.titulo{
+    
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+
+form{
+    
+    height: 500px ;
+    background-color: hsl(60, 24%, 62%,0.3);
+}
+
+.div1{
+    background-color: green;
+    
+
+}
+.div2{
+    background-color: pink;
+
+}
+.div3{
+    background-color: red;
+
+}
